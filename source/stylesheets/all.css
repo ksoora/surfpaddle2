@@ -1,0 +1,149 @@
+
+.banner {
+  width:100%;
+  border: 1px solid green;
+  height:300px;
+  background: url("http://www.mrwallpaper.com/wallpapers/Ocean-Wave-Sunset.jpg");
+  background-position: 1-3000px;
+  background-repeat: no-repeat;
+  
+}
+
+#tint{
+  background: rgba(41, 128, 185, 0.75) ;
+  width: 100%;
+  height: 125%;
+  margin-top: -300px;
+
+}
+
+#tint:hover{background: url("http://www.mrwallpaper.com/wallpapers/Ocean-Wave-Sunset.jpg");
+
+}
+
+.logo{
+  width: 55px;
+  border: 0px solid red;
+  height: 30px;
+  margin-left: 10%;
+  margin-bottom: 10%;
+  display: inline-block;
+}
+
+.logo2{
+
+  border: 0px solid pink;
+  display: center;
+}
+
+
+img{
+
+  width: 100%;
+
+}
+
+.aboutsearch{
+  display: inline-block;
+  margin-right: 100px;
+  float: right;
+
+}
+
+.main{width: 50%;
+  display:inline-block;
+  float: left;
+}
+
+
+.sidebar{width: 50%;
+  display:inline-block;
+  margin-left: -10px;
+}
+
+.sidebarfinal{text-align: center
+
+
+}
+
+.ugh{width: 500px;
+  float: right;
+
+
+
+}
+
+.sideswipe{text-align: right;
+  float: right;
+
+}
+
+#sidebar_heading{
+  text-align: right;
+  color: #2980b9;
+  font-size: 30px;
+
+
+}
+
+.sidebar2{width:80px;
+  border-radius: 30px;
+
+
+}
+
+.Karthik{font-family: Arial;
+  color: #2980b9;
+}
+
+.socialmedia{display:inline-block;
+}
+
+
+.date {color: gray;
+
+
+}
+
+.lilprofile{width:20px;
+  border-radius: 30px;
+}
+
+.useful {color: #2980b9;
+  font-size: 30px
+
+}
+
+.title {text-align: center;
+  margin-top: 10px;
+  font-size: 70px;
+
+}
+
+.subtitle{text-align: center
+
+
+}
+
+
+
+.title{
+  color: white;
+  font-family: Arial;
+}
+
+.imagestore div img{width:25%;
+  height:25%;
+  float: left;
+}
+
+
+#mostpop{text-align: center;
+  color: #2980b9;
+
+}
+
+.longtablebar{
+
+
+}
